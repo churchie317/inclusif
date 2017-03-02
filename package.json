@@ -1,5 +1,5 @@
 {
-  "name": "inclsv",
+  "name": "inclusif",
   "version": "0.0.0-development",
   "description": "An NPM module that converts instances of gender-binary pronouns to non-binary",
   "main": "dist/index.js",
